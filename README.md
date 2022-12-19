@@ -4,7 +4,7 @@ Change directory jupyter python
 # For windows
 1. Press `Ctrl+R` 
 2. Type `cmd` 
-3. Type in comand window
+3. Type in command window
 ```sh
 jupyter notebook --generate-config
 ```
@@ -16,3 +16,5 @@ jupyter notebook --generate-config
 c.NotebookApp.notebook_dir
 ```
 8. In this `#c.NotebookApp.notebook_dir = ''`, I will change it to G: drive `c.NotebookApp.notebook_dir = 'g://'` . After the file is edited, save it in the same location. (note:Remove `#` and exist two Backslash`//`)
+9. Open command window again
+10. Type `jupyter-lab` or `jupyter notebook`
