@@ -15,4 +15,4 @@ jupyter notebook --generate-config
 ```sh
 c.NotebookApp.notebook_dir
 ```
-8. In this `#c.NotebookApp.notebook_dir = ''`, I will change it to G: drive `c.NotebookApp.notebook_dir = 'g://'` . After the file is edited, save it in the same location. (note:Remove # and exist two Backslash[//])
+8. In this `#c.NotebookApp.notebook_dir = ''`, I will change it to G: drive `c.NotebookApp.notebook_dir = 'g://'` . After the file is edited, save it in the same location. (note:Remove # and exist two Backslash`//`)
